@@ -1,0 +1,193 @@
+# Copyright (C) 2017 WC Paytm Gateway
+# This file is distributed under the same license as the WC Paytm Gateway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Paytm Gateway 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-paytm-gateway\n"
+"POT-Creation-Date: 2017-07-10 07:37:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bootstrap.php:52
+msgid "Cloning instances of the class is forbidden."
+msgstr ""
+
+#: bootstrap.php:64
+msgid "Unserializing instances of the class is forbidden."
+msgstr ""
+
+#: includes/admin/class-admin-init.php:36
+msgid "Paytm Refunds"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:56
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:57
+msgid "Contact Author"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:71
+msgid "F.A.Q"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:72
+msgid "View On Github"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:73
+msgid "Report Issue"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:74
+msgid "Donate"
+msgstr ""
+
+#: includes/admin/views/metabox.php:4
+msgid "Ref ID"
+msgstr ""
+
+#: includes/admin/views/metabox.php:5
+msgid "Bank Trans ID"
+msgstr ""
+
+#: includes/admin/views/metabox.php:6
+msgid "Date"
+msgstr ""
+
+#: includes/admin/views/metabox.php:7
+msgid "Amount"
+msgstr ""
+
+#: includes/admin/views/metabox.php:8
+msgid "Response"
+msgstr ""
+
+#: includes/admin/views/metabox.php:22
+msgid "Status For "
+msgstr ""
+
+#: includes/admin/views/view-details.php:24
+msgid "Refund Transaction Details"
+msgstr ""
+
+#: includes/html-paytm.php:3
+msgid " Pay Via Paytm "
+msgstr ""
+
+#: includes/html-paytm.php:6
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: includes/html-paytm.php:12
+msgid "Redirecting...."
+msgstr ""
+
+#: includes/paytm-gateway.php:19
+msgid "Paytm"
+msgstr ""
+
+#: includes/paytm-gateway.php:20
+msgid "India online payment solutions for all your transactions by paytm"
+msgstr ""
+
+#: includes/paytm-gateway.php:60
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/paytm-gateway.php:62
+msgid "Enable paytm Payment Module."
+msgstr ""
+
+#: includes/paytm-gateway.php:65
+msgid "Title:"
+msgstr ""
+
+#: includes/paytm-gateway.php:67
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/paytm-gateway.php:68
+msgid "paytm"
+msgstr ""
+
+#: includes/paytm-gateway.php:70
+msgid "Description:"
+msgstr ""
+
+#: includes/paytm-gateway.php:72
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/paytm-gateway.php:73
+msgid "The best payment gateway provider in India for e-payment through credit card, debit card & netbanking."
+msgstr ""
+
+#: includes/paytm-gateway.php:76
+msgid "Merchant Identifier"
+msgstr ""
+
+#: includes/paytm-gateway.php:78
+msgid "This id(USER ID) available at \"Generate Secret Key\" of \"Integration->Card payments integration at paytm.\""
+msgstr ""
+
+#: includes/paytm-gateway.php:81
+msgid "Secret Key"
+msgstr ""
+
+#: includes/paytm-gateway.php:83 includes/paytm-gateway.php:88
+#: includes/paytm-gateway.php:98
+msgid "Given to Merchant by paytm"
+msgstr ""
+
+#: includes/paytm-gateway.php:86
+msgid "Industry Type"
+msgstr ""
+
+#: includes/paytm-gateway.php:91
+msgid "Channel ID"
+msgstr ""
+
+#: includes/paytm-gateway.php:93
+msgid "WEB - for desktop websites / WAP - for mobile websites"
+msgstr ""
+
+#: includes/paytm-gateway.php:96
+msgid "Web Site"
+msgstr ""
+
+#: includes/paytm-gateway.php:101
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/paytm-gateway.php:103
+msgid "Select to enable Sandbox Enviroment"
+msgstr ""
+
+#: includes/paytm-gateway.php:111
+msgid "Thank you for your order, please click the button below to pay with paytm."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WC Paytm Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugin/wc-paytm-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The simplest of the available ways to do payment & refunds integration to your website with paytm ."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Varun Sridharan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://varunsridharan.in"
+msgstr ""
